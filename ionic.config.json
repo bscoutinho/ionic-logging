@@ -1,0 +1,7 @@
+{
+  "name": "ionic-logging",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
